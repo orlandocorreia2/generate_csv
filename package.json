@@ -1,0 +1,21 @@
+{
+  "name": "csv_adjustments",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.15.1",
+    "csv-parse": "^5.5.6",
+    "csv-parser": "^3.0.0",
+    "csv-stringify": "^6.5.1",
+    "csv-writer": "^1.6.0",
+    "export-to-csv": "^1.4.0"
+  }
+}
