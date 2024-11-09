@@ -1,0 +1,191 @@
+{
+  "naoSalvarDados": true,
+  "calculo": {
+    "precificacao": { "premio": { "informado": 34.65 } },
+    "vigenciaFinal": "2020-01-08T00:00:00.000Z",
+    "tipoSeguro": "Novo",
+    "numero": "00401519",
+    "origem": 18,
+    "parceiro": "27351731000138",
+    "codigoProdutoVida": "CCR",
+    "contratantes": [
+      {
+        "tipo": "PRI",
+        "pessoa": {
+          "tipo": "FIS",
+          "rendaMensal": "5100.00",
+          "enderecos": [
+            {
+              "uf": "RO",
+              "cidade": "PORTO VELHO",
+              "logradouro": "RUA OLEIROS",
+              "bairro": "NOVA ESPERANCA",
+              "complementoCep": "096",
+              "paisResidencia": "BRA",
+              "tipoEndereco": "RES",
+              "numeroLogradouro": 5015,
+              "cep": "76822"
+            }
+          ],
+          "nome": "JOAO BARALDI NETO",
+          "dadosPessoaFisica": {
+            "numeroCpf": "391608328",
+            "profissao": 14141,
+            "estadoCivil": "SOL",
+            "sexo": "MASC",
+            "digitoCpf": "78",
+            "nacionalidade": "BRA",
+            "dataNascimento": "1996-01-23T00:00:00.000Z"
+          },
+          "telefones": [
+            {
+              "tipoTelefone": "COM",
+              "numeroTelefone": 32298250,
+              "dddTelefone": 69
+            },
+            {
+              "tipoTelefone": "CEL",
+              "numeroTelefone": 992839448,
+              "dddTelefone": 69
+            },
+            {
+              "tipoTelefone": "RES",
+              "numeroTelefone": 32225099,
+              "dddTelefone": 69
+            },
+            {
+              "tipoTelefone": "CEL",
+              "numeroTelefone": 992655205,
+              "dddTelefone": 69
+            }
+          ],
+          "email": "baraldi.n.j@gmail.com                             "
+        },
+        "numero": 1,
+        "grupos": [
+          {
+            "qtdeSegurados": 1,
+            "numero": 1,
+            "segurados": [
+              {
+                "pessoa": {
+                  "tipo": "FIS",
+                  "rendaMensal": "5100.00",
+                  "nome": "JOAO BARALDI NETO",
+                  "dadosPessoaFisica": {
+                    "numeroCpf": "391608328",
+                    "estadoCivil": "SOL",
+                    "sexo": "MASC",
+                    "digitoCpf": "78",
+                    "nacionalidade": "BRA",
+                    "dataNascimento": "1996-01-23T00:00:00.000Z"
+                  },
+                  "email": "baraldi.n.j@gmail.com                             "
+                },
+                "numero": 1,
+                "beneficiarios": [{ "tipoBeneficiario": "PAR" }],
+                "coberturas": [
+                  { "sigla": "BAS", "valor": 3000 },
+                  { "sigla": "RIT", "valor": 421.2 },
+                  { "sigla": "IPTA", "valor": 3000 },
+                  {
+                    "dataSolicitacao": null,
+                    "numeroSerie": 1,
+                    "loteCapitalizacao": null,
+                    "sigla": "CAP",
+                    "versaoCapitalizacao": null,
+                    "statusCapitalizacao": "CapitalizacaoGerada",
+                    "tituloCapitalizacao": 301145,
+                    "valor": 11000,
+                    "dataSorteio": null,
+                    "numeroSorte": 1145
+                  },
+                  { "sigla": "DES", "valor": 421.2 }
+                ]
+              }
+            ],
+            "nome": "Seguro Individual"
+          }
+        ],
+        "dadosPagamento": {
+          "vencimentoPrimeiraParcela": "2019-06-09T00:00:00.000Z",
+          "tipoResponsavelPagamento": "PAR",
+          "quantidadeParcelas": 7
+        }
+      }
+    ],
+    "canalDistribuicao": "VAR",
+    "meioComercializacao": "ARQ",
+    "idContratoParceiro": "00000034138915",
+    "segmento": "VidaIndividual",
+    "idSeguradoParceiro": "712656910",
+    "orcnum": "1800401519",
+    "remuneracoes": [
+      {
+        "percentual": 1.8,
+        "tipoRemuneracao": "COR",
+        "favorecidos": [
+          {
+            "susepEmissao": "REN01J",
+            "pessoa": {
+              "tipo": "JUR",
+              "dadosPessoaJuridica": {
+                "digitoCnpj": "25",
+                "ordemCnpj": "0001",
+                "numeroCnpj": "61038592"
+              },
+              "nome": "MARSH CORRETORA DE SEGUROS LTDA",
+              "email": null
+            },
+            "corretorLider": true,
+            "susep": "REN01J",
+            "participacao": 100,
+            "susepOrcamento": "REN01J",
+            "papel": "COR"
+          }
+        ]
+      },
+      {
+        "percentual": 70,
+        "tipoRemuneracao": "REP",
+        "favorecidos": [
+          {
+            "pessoa": {
+              "tipo": "JUR",
+              "dadosPessoaJuridica": {
+                "digitoCnpj": "38",
+                "ordemCnpj": "0001",
+                "numeroCnpj": "27351731"
+              },
+              "nome": "REALIZE CREDITO, FINANCIAMENTO E INVESTIMENTO S.A.",
+              "email": null
+            },
+            "participacao": 100,
+            "papel": "PAR"
+          }
+        ]
+      }
+    ],
+    "vigenciaInicial": "2019-06-09T00:00:00.000Z",
+    "dataCalculo": "2019-05-09T00:00:00.000Z"
+  },
+  "keys": [],
+  "sharedlibrary": {
+    "bas": "3000",
+    "rit": "421.2",
+    "ipta": "3000",
+    "cap": "11000",
+    "des": "421.2",
+    "codigoprodutovida": "ccr",
+    "pclqtd": "7",
+    "siscod": "19",
+    "rnrinftotprm": "34.65",
+    "correm": "1.8",
+    "reprem": "70",
+    "empcod": "4",
+    "pdtcod": "151"
+  },
+  "orcnum": "1800401519",
+  "uuid": "17a1d28d.37c2dd",
+  "identificador": "/renner/calculo"
+}
