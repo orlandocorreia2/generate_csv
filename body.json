@@ -1,0 +1,524 @@
+{
+    "retornoCalculo": {
+        "precificacao": {
+            "juros": 0,
+            "iof": 0.03,
+            "encargos": 0,
+            "custoDeApolice": 0,
+            "premio": {
+                "puro": 1.11,
+                "comercial": 8.7,
+                "total": 8.73
+            },
+            "taxa": {
+                "pura": 0.0027748,
+                "comercial": 0.019626856,
+                "total": 0.019626856
+            },
+            "descontoAgravo": [
+                {
+                    "percentual": -1.718213099999999,
+                    "monetario": -0.15,
+                    "tipo": "BAT"
+                }
+            ],
+            "coberturas": [
+                {
+                    "sigla": "BAS",
+                    "iof": 0.01,
+                    "premio": {
+                        "comercial": 2.28,
+                        "puro": 0.18,
+                        "total": 2.29
+                    },
+                    "taxa": {
+                        "pura": 0.0000614,
+                        "comercial": 0.000428604,
+                        "total": 0.000428604
+                    },
+                    "descontoAgravo": [
+                        {
+                            "percentual": -1.718213099999999,
+                            "monetario": -0.04,
+                            "tipo": "BAT"
+                        }
+                    ]
+                },
+                {
+                    "sigla": "RIT",
+                    "iof": 0.01,
+                    "premio": {
+                        "comercial": 2.05,
+                        "puro": 0.29,
+                        "total": 2.06
+                    },
+                    "taxa": {
+                        "pura": 0.0009694,
+                        "comercial": 0.006766924,
+                        "total": 0.006766924
+                    },
+                    "descontoAgravo": [
+                        {
+                            "percentual": -1.718213099999999,
+                            "monetario": -0.04,
+                            "tipo": "BAT"
+                        }
+                    ]
+                },
+                {
+                    "sigla": "IPTA",
+                    "iof": 0,
+                    "premio": {
+                        "comercial": 0.76,
+                        "puro": 0.11,
+                        "total": 0.76
+                    },
+                    "taxa": {
+                        "pura": 0.0000364,
+                        "comercial": 0.000254091,
+                        "total": 0.000254091
+                    },
+                    "descontoAgravo": [
+                        {
+                            "percentual": -1.718213099999999,
+                            "monetario": -0.01,
+                            "tipo": "BAT"
+                        }
+                    ]
+                },
+                {
+                    "sigla": "CAP",
+                    "iof": 0,
+                    "premio": {
+                        "comercial": 0,
+                        "puro": 0,
+                        "total": 0
+                    },
+                    "taxa": {
+                        "pura": 0,
+                        "comercial": 0,
+                        "total": 0
+                    },
+                    "descontoAgravo": [
+                        {
+                            "percentual": -1.718213099999999,
+                            "monetario": 0,
+                            "tipo": "BAT"
+                        }
+                    ]
+                },
+                {
+                    "sigla": "DES",
+                    "iof": 0.01,
+                    "premio": {
+                        "comercial": 3.61,
+                        "puro": 0.52,
+                        "total": 3.62
+                    },
+                    "taxa": {
+                        "pura": 0.0017076,
+                        "comercial": 0.01191995,
+                        "total": 0.01191995
+                    },
+                    "descontoAgravo": [
+                        {
+                            "percentual": -1.718213099999999,
+                            "monetario": -0.06,
+                            "tipo": "BAT"
+                        }
+                    ]
+                }
+            ],
+            "contratantes": [
+                {
+                    "iof": 0.03,
+                    "premio": {
+                        "puro": 1.11,
+                        "comercial": 8.7,
+                        "total": 8.73
+                    },
+                    "taxa": {
+                        "pura": 0.0027748,
+                        "comercial": 0.019626856,
+                        "total": 0.019626856
+                    },
+                    "descontoAgravo": [
+                        {
+                            "percentual": -1.718213099999999,
+                            "monetario": -0.15,
+                            "tipo": "BAT"
+                        }
+                    ],
+                    "coberturas": [
+                        {
+                            "sigla": "BAS",
+                            "iof": 0.01,
+                            "premio": {
+                                "comercial": 2.28,
+                                "puro": 0.18,
+                                "total": 2.29
+                            },
+                            "taxa": {
+                                "pura": 0.0000614,
+                                "comercial": 0.000428604,
+                                "total": 0.000428604
+                            },
+                            "descontoAgravo": [
+                                {
+                                    "percentual": -1.718213099999999,
+                                    "monetario": -0.04,
+                                    "tipo": "BAT"
+                                }
+                            ]
+                        },
+                        {
+                            "sigla": "RIT",
+                            "iof": 0.01,
+                            "premio": {
+                                "comercial": 2.05,
+                                "puro": 0.29,
+                                "total": 2.06
+                            },
+                            "taxa": {
+                                "pura": 0.0009694,
+                                "comercial": 0.006766924,
+                                "total": 0.006766924
+                            },
+                            "descontoAgravo": [
+                                {
+                                    "percentual": -1.718213099999999,
+                                    "monetario": -0.04,
+                                    "tipo": "BAT"
+                                }
+                            ]
+                        },
+                        {
+                            "sigla": "IPTA",
+                            "iof": 0,
+                            "premio": {
+                                "comercial": 0.76,
+                                "puro": 0.11,
+                                "total": 0.76
+                            },
+                            "taxa": {
+                                "pura": 0.0000364,
+                                "comercial": 0.000254091,
+                                "total": 0.000254091
+                            },
+                            "descontoAgravo": [
+                                {
+                                    "percentual": -1.718213099999999,
+                                    "monetario": -0.01,
+                                    "tipo": "BAT"
+                                }
+                            ]
+                        },
+                        {
+                            "sigla": "CAP",
+                            "iof": 0,
+                            "premio": {
+                                "comercial": 0,
+                                "puro": 0,
+                                "total": 0
+                            },
+                            "taxa": {
+                                "pura": 0,
+                                "comercial": 0,
+                                "total": 0
+                            },
+                            "descontoAgravo": [
+                                {
+                                    "percentual": -1.718213099999999,
+                                    "monetario": 0,
+                                    "tipo": "BAT"
+                                }
+                            ]
+                        },
+                        {
+                            "sigla": "DES",
+                            "iof": 0.01,
+                            "premio": {
+                                "comercial": 3.61,
+                                "puro": 0.52,
+                                "total": 3.62
+                            },
+                            "taxa": {
+                                "pura": 0.0017076,
+                                "comercial": 0.01191995,
+                                "total": 0.01191995
+                            },
+                            "descontoAgravo": [
+                                {
+                                    "percentual": -1.718213099999999,
+                                    "monetario": -0.06,
+                                    "tipo": "BAT"
+                                }
+                            ]
+                        }
+                    ],
+                    "numero": 1,
+                    "grupos": [
+                        {
+                            "iof": 0.03,
+                            "premio": {
+                                "puro": 1.11,
+                                "comercial": 8.7,
+                                "total": 8.73
+                            },
+                            "taxa": {
+                                "pura": 0.0027748,
+                                "comercial": 0.019626856,
+                                "total": 0.019626856
+                            },
+                            "descontoAgravo": [
+                                {
+                                    "percentual": -1.718213099999999,
+                                    "monetario": -0.15,
+                                    "tipo": "BAT"
+                                }
+                            ],
+                            "coberturas": [
+                                {
+                                    "sigla": "BAS",
+                                    "iof": 0.01,
+                                    "premio": {
+                                        "comercial": 2.28,
+                                        "puro": 0.18,
+                                        "total": 2.29
+                                    },
+                                    "taxa": {
+                                        "pura": 0.0000614,
+                                        "comercial": 0.000428604,
+                                        "total": 0.000428604
+                                    },
+                                    "descontoAgravo": [
+                                        {
+                                            "percentual": -1.718213099999999,
+                                            "monetario": -0.04,
+                                            "tipo": "BAT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "sigla": "RIT",
+                                    "iof": 0.01,
+                                    "premio": {
+                                        "comercial": 2.05,
+                                        "puro": 0.29,
+                                        "total": 2.06
+                                    },
+                                    "taxa": {
+                                        "pura": 0.0009694,
+                                        "comercial": 0.006766924,
+                                        "total": 0.006766924
+                                    },
+                                    "descontoAgravo": [
+                                        {
+                                            "percentual": -1.718213099999999,
+                                            "monetario": -0.04,
+                                            "tipo": "BAT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "sigla": "IPTA",
+                                    "iof": 0,
+                                    "premio": {
+                                        "comercial": 0.76,
+                                        "puro": 0.11,
+                                        "total": 0.76
+                                    },
+                                    "taxa": {
+                                        "pura": 0.0000364,
+                                        "comercial": 0.000254091,
+                                        "total": 0.000254091
+                                    },
+                                    "descontoAgravo": [
+                                        {
+                                            "percentual": -1.718213099999999,
+                                            "monetario": -0.01,
+                                            "tipo": "BAT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "sigla": "CAP",
+                                    "iof": 0,
+                                    "premio": {
+                                        "comercial": 0,
+                                        "puro": 0,
+                                        "total": 0
+                                    },
+                                    "taxa": {
+                                        "pura": 0,
+                                        "comercial": 0,
+                                        "total": 0
+                                    },
+                                    "descontoAgravo": [
+                                        {
+                                            "percentual": -1.718213099999999,
+                                            "monetario": 0,
+                                            "tipo": "BAT"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "sigla": "DES",
+                                    "iof": 0.01,
+                                    "premio": {
+                                        "comercial": 3.61,
+                                        "puro": 0.52,
+                                        "total": 3.62
+                                    },
+                                    "taxa": {
+                                        "pura": 0.0017076,
+                                        "comercial": 0.01191995,
+                                        "total": 0.01191995
+                                    },
+                                    "descontoAgravo": [
+                                        {
+                                            "percentual": -1.718213099999999,
+                                            "monetario": -0.06,
+                                            "tipo": "BAT"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "numero": 1,
+                            "segurados": [
+                                {
+                                    "iof": 0.03,
+                                    "premio": {
+                                        "puro": 1.11,
+                                        "comercial": 8.7,
+                                        "total": 8.73
+                                    },
+                                    "taxa": {
+                                        "pura": 0.0027748,
+                                        "comercial": 0.019626856,
+                                        "total": 0.019626856
+                                    },
+                                    "descontoAgravo": [
+                                        {
+                                            "percentual": -1.718213099999999,
+                                            "monetario": -0.15,
+                                            "tipo": "BAT"
+                                        }
+                                    ],
+                                    "coberturas": [
+                                        {
+                                            "sigla": "BAS",
+                                            "iof": 0.01,
+                                            "premio": {
+                                                "comercial": 2.28,
+                                                "puro": 0.18,
+                                                "total": 2.29
+                                            },
+                                            "taxa": {
+                                                "pura": 0.0000614,
+                                                "comercial": 0.000428604,
+                                                "total": 0.000428604
+                                            },
+                                            "descontoAgravo": [
+                                                {
+                                                    "percentual": -1.718213099999999,
+                                                    "monetario": -0.04,
+                                                    "tipo": "BAT"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "sigla": "RIT",
+                                            "iof": 0.01,
+                                            "premio": {
+                                                "comercial": 2.05,
+                                                "puro": 0.29,
+                                                "total": 2.06
+                                            },
+                                            "taxa": {
+                                                "pura": 0.0009694,
+                                                "comercial": 0.006766924,
+                                                "total": 0.006766924
+                                            },
+                                            "descontoAgravo": [
+                                                {
+                                                    "percentual": -1.718213099999999,
+                                                    "monetario": -0.04,
+                                                    "tipo": "BAT"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "sigla": "IPTA",
+                                            "iof": 0,
+                                            "premio": {
+                                                "comercial": 0.76,
+                                                "puro": 0.11,
+                                                "total": 0.76
+                                            },
+                                            "taxa": {
+                                                "pura": 0.0000364,
+                                                "comercial": 0.000254091,
+                                                "total": 0.000254091
+                                            },
+                                            "descontoAgravo": [
+                                                {
+                                                    "percentual": -1.718213099999999,
+                                                    "monetario": -0.01,
+                                                    "tipo": "BAT"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "sigla": "CAP",
+                                            "iof": 0,
+                                            "premio": {
+                                                "comercial": 0,
+                                                "puro": 0,
+                                                "total": 0
+                                            },
+                                            "taxa": {
+                                                "pura": 0,
+                                                "comercial": 0,
+                                                "total": 0
+                                            },
+                                            "descontoAgravo": [
+                                                {
+                                                    "percentual": -1.718213099999999,
+                                                    "monetario": 0,
+                                                    "tipo": "BAT"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "sigla": "DES",
+                                            "iof": 0.01,
+                                            "premio": {
+                                                "comercial": 3.61,
+                                                "puro": 0.52,
+                                                "total": 3.62
+                                            },
+                                            "taxa": {
+                                                "pura": 0.0017076,
+                                                "comercial": 0.01191995,
+                                                "total": 0.01191995
+                                            },
+                                            "descontoAgravo": [
+                                                {
+                                                    "percentual": -1.718213099999999,
+                                                    "monetario": -0.06,
+                                                    "tipo": "BAT"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "numero": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
