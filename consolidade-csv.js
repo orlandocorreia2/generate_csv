@@ -1,23 +1,5 @@
-import csv from "csv-parser";
 import fs from "fs";
 import { generateCSV, getDataExtraction } from "./util.js";
-
-// const getDataExtraction = ({ filePath, fn }) => {
-//   return new Promise((resolve, _) => {
-//     let index = 0;
-//     const response = [];
-//     fs.createReadStream(filePath)
-//       .pipe(csv({ separator: "," }))
-//       .on("data", (data) => {
-//         response.push(data);
-//         fn(data, index);
-//         index++;
-//       })
-//       .on("end", () => {
-//         resolve(response);
-//       });
-//   });
-// };
 
 const init = async () => {
   console.log("Processing...");
@@ -31,10 +13,6 @@ const init = async () => {
   let found = 0;
   let notFound = 0;
   let timerProccess = 0;
-
-  // const timer = setInterval(() => {
-  //   timerProccess++;
-  // }, 1000);
 
   fs.unlink("EP-CONSOLIDADO.csv", function (err) {
     if (err) console.log("File non exists!");
