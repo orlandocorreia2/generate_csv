@@ -79,8 +79,6 @@ const init = async () => {
     },
   });
 
-  return;
-
   await getDataExtraction({
     filePath: "files/jupyter_colunado/resultado-41708.csv",
     fn: (data) => {

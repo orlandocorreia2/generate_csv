@@ -17,7 +17,6 @@ export const genereateJSONFile = ({ filePath, data }) => {
       console.error("Ocorreu um erro ao gravar o arquivo JSON:", err);
       return;
     }
-    console.log("O arquivo JSON foi criado e gravado com sucesso.");
   });
 };
 

@@ -1,0 +1,307 @@
+{
+  "canalDistribuicao": "VAR",
+  "codigoProdutoVida": "EP",
+  "contratantes": [
+    {
+      "dadosPagamento": {
+        "quantidadeParcelas": 6,
+        "tipoResponsavelPagamento": "PAR",
+        "vencimentoPrimeiraParcela": "2024-12-30T00:00:00.000Z"
+      },
+      "grupos": [
+        {
+          "nome": "Seguro Individual",
+          "numero": 1,
+          "qtdeSegurados": 1,
+          "segurados": [
+            {
+              "beneficiarios": [{ "tipoBeneficiario": "PAR" }],
+              "coberturas": [
+                {
+                  "numeroSerie": 1,
+                  "numeroSorte": 4437511,
+                  "sigla": "CAP",
+                  "valor": null
+                },
+                {
+                  "numeroSerie": null,
+                  "numeroSorte": null,
+                  "sigla": "FIN",
+                  "valor": null
+                },
+                {
+                  "numeroSerie": null,
+                  "numeroSorte": null,
+                  "sigla": "BAS",
+                  "valor": 10000
+                },
+                {
+                  "numeroSerie": null,
+                  "numeroSorte": null,
+                  "sigla": "PROF",
+                  "valor": null
+                },
+                {
+                  "numeroSerie": null,
+                  "numeroSorte": null,
+                  "sigla": "IPTA",
+                  "valor": 10000
+                },
+                {
+                  "numeroSerie": null,
+                  "numeroSorte": null,
+                  "sigla": "RIT",
+                  "valor": 3417.18
+                },
+                {
+                  "numeroSerie": null,
+                  "numeroSorte": null,
+                  "sigla": "DES",
+                  "valor": 3417.18
+                }
+              ],
+              "numero": 1,
+              "pessoa": {}
+            }
+          ]
+        }
+      ],
+      "numero": 1,
+      "pessoa": {},
+      "tipo": "PRI"
+    }
+  ],
+  "dataCalculo": "2024-12-02T00:00:00.000Z",
+  "entradaNegocio": "",
+  "idContratoParceiro": "",
+  "idSeguradoParceiro": "",
+  "idarquivosaida": 0,
+  "idlote": 0,
+  "meioComercializacao": "",
+  "nomeArquivo": "",
+  "numero": "0",
+  "numeroSerie": 1,
+  "numeroSorte": 0,
+  "orcnum": "1810266237",
+  "origem": 18,
+  "parceiro": "0",
+  "parcelasContrato": [
+    {
+      "datapagamentoparcela": null,
+      "datavencimentoparcela": "2024-12-30T00:00:00.000Z",
+      "id": 211219685,
+      "idarquivo": 30571,
+      "idfatura": null,
+      "idlote": 16815,
+      "numerocontratoparceiro": "00000118848740",
+      "numerofatura": null,
+      "numeroparcela": 1,
+      "numeropropostaporto": "10266237",
+      "origemproposta": 18,
+      "percentualjurosaplicado": "0.00000",
+      "status": null,
+      "valoriof": "0.00",
+      "valorjurosrecebidos": "0.00",
+      "valorliquido": "0.00",
+      "valorparcela": "331.03",
+      "valorpremioparcela": "16.29"
+    },
+    {
+      "datapagamentoparcela": null,
+      "datavencimentoparcela": "2025-01-30T00:00:00.000Z",
+      "id": 211219648,
+      "idarquivo": 30571,
+      "idfatura": null,
+      "idlote": 16815,
+      "numerocontratoparceiro": "00000118848740",
+      "numerofatura": null,
+      "numeroparcela": 2,
+      "numeropropostaporto": "10266237",
+      "origemproposta": 18,
+      "percentualjurosaplicado": "0.00000",
+      "status": null,
+      "valoriof": "0.00",
+      "valorjurosrecebidos": "0.00",
+      "valorliquido": "0.00",
+      "valorparcela": "331.03",
+      "valorpremioparcela": "16.29"
+    },
+    {
+      "datapagamentoparcela": null,
+      "datavencimentoparcela": "2025-02-28T00:00:00.000Z",
+      "id": 211219686,
+      "idarquivo": 30571,
+      "idfatura": null,
+      "idlote": 16815,
+      "numerocontratoparceiro": "00000118848740",
+      "numerofatura": null,
+      "numeroparcela": 3,
+      "numeropropostaporto": "10266237",
+      "origemproposta": 18,
+      "percentualjurosaplicado": "0.00000",
+      "status": null,
+      "valoriof": "0.00",
+      "valorjurosrecebidos": "0.00",
+      "valorliquido": "0.00",
+      "valorparcela": "331.03",
+      "valorpremioparcela": "16.29"
+    },
+    {
+      "datapagamentoparcela": null,
+      "datavencimentoparcela": "2025-03-30T00:00:00.000Z",
+      "id": 211219649,
+      "idarquivo": 30571,
+      "idfatura": null,
+      "idlote": 16815,
+      "numerocontratoparceiro": "00000118848740",
+      "numerofatura": null,
+      "numeroparcela": 4,
+      "numeropropostaporto": "10266237",
+      "origemproposta": 18,
+      "percentualjurosaplicado": "0.00000",
+      "status": null,
+      "valoriof": "0.00",
+      "valorjurosrecebidos": "0.00",
+      "valorliquido": "0.00",
+      "valorparcela": "331.03",
+      "valorpremioparcela": "16.29"
+    },
+    {
+      "datapagamentoparcela": null,
+      "datavencimentoparcela": "2025-04-30T00:00:00.000Z",
+      "id": 211219687,
+      "idarquivo": 30571,
+      "idfatura": null,
+      "idlote": 16815,
+      "numerocontratoparceiro": "00000118848740",
+      "numerofatura": null,
+      "numeroparcela": 5,
+      "numeropropostaporto": "10266237",
+      "origemproposta": 18,
+      "percentualjurosaplicado": "0.00000",
+      "status": null,
+      "valoriof": "0.00",
+      "valorjurosrecebidos": "0.00",
+      "valorliquido": "0.00",
+      "valorparcela": "331.03",
+      "valorpremioparcela": "16.29"
+    },
+    {
+      "datapagamentoparcela": null,
+      "datavencimentoparcela": "2025-05-30T00:00:00.000Z",
+      "id": 211219650,
+      "idarquivo": 30571,
+      "idfatura": null,
+      "idlote": 16815,
+      "numerocontratoparceiro": "00000118848740",
+      "numerofatura": null,
+      "numeroparcela": 6,
+      "numeropropostaporto": "10266237",
+      "origemproposta": 18,
+      "percentualjurosaplicado": "0.00000",
+      "status": null,
+      "valoriof": "0.00",
+      "valorjurosrecebidos": "0.00",
+      "valorliquido": "0.00",
+      "valorparcela": "331.03",
+      "valorpremioparcela": "16.29"
+    },
+    {
+      "datapagamentoparcela": null,
+      "datavencimentoparcela": "2025-06-30T00:00:00.000Z",
+      "id": 211219688,
+      "idarquivo": 30571,
+      "idfatura": null,
+      "idlote": 16815,
+      "numerocontratoparceiro": "00000118848740",
+      "numerofatura": null,
+      "numeroparcela": 7,
+      "numeropropostaporto": "10266237",
+      "origemproposta": 18,
+      "percentualjurosaplicado": "0.00000",
+      "status": null,
+      "valoriof": "0.00",
+      "valorjurosrecebidos": "0.00",
+      "valorliquido": "0.00",
+      "valorparcela": "331.03",
+      "valorpremioparcela": "16.29"
+    },
+    {
+      "datapagamentoparcela": null,
+      "datavencimentoparcela": "2025-07-30T00:00:00.000Z",
+      "id": 211219651,
+      "idarquivo": 30571,
+      "idfatura": null,
+      "idlote": 16815,
+      "numerocontratoparceiro": "00000118848740",
+      "numerofatura": null,
+      "numeroparcela": 8,
+      "numeropropostaporto": "10266237",
+      "origemproposta": 18,
+      "percentualjurosaplicado": "0.00000",
+      "status": null,
+      "valoriof": "0.00",
+      "valorjurosrecebidos": "0.00",
+      "valorliquido": "0.00",
+      "valorparcela": "331.03",
+      "valorpremioparcela": "16.29"
+    }
+  ],
+  "precificacao": { "premio": { "informado": 117 } },
+  "remuneracoes": [
+    {
+      "favorecidos": [
+        {
+          "corretorLider": null,
+          "papel": "PAR",
+          "participacao": 100,
+          "pessoa": {
+            "dadosPessoaFisica": null,
+            "dadosPessoaJuridica": {
+              "digitoCnpj": null,
+              "numeroCnpj": null,
+              "ordemCnpj": null
+            },
+            "email": null,
+            "nome": null,
+            "tipo": null
+          },
+          "susep": null,
+          "susepEmissao": null,
+          "susepOrcamento": null
+        }
+      ],
+      "percentual": 70,
+      "tipoRemuneracao": "REP"
+    },
+    {
+      "favorecidos": [
+        {
+          "corretorLider": true,
+          "papel": "COR",
+          "participacao": 100,
+          "pessoa": {
+            "dadosPessoaFisica": null,
+            "dadosPessoaJuridica": {
+              "digitoCnpj": null,
+              "numeroCnpj": null,
+              "ordemCnpj": null
+            },
+            "email": null,
+            "nome": null,
+            "tipo": null
+          },
+          "susep": null,
+          "susepEmissao": null,
+          "susepOrcamento": null
+        }
+      ],
+      "percentual": 1.8,
+      "tipoRemuneracao": "COR"
+    }
+  ],
+  "segmento": "VidaMassificados",
+  "tipoSeguro": "Novo",
+  "vigenciaFinal": "2025-08-01T00:00:00.000Z",
+  "vigenciaInicial": "2024-12-02T00:00:00.000Z"
+}

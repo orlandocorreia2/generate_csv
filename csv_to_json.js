@@ -3,20 +3,16 @@ import { genereateJSONFile, getDataExtraction } from "./util.js";
 const execute = async () => {
   const dataFile = [];
   await getDataExtraction({
-    filePath: "files/payloadsRenovacao.csv",
-    fn: (data) => {
+    filePath: "files/kibana/Kibana Logs.csv",
+    fn: (data, index) => {
       try {
-        dataFile.push(JSON.parse(data.Column2));
+        const request = JSON.parse(data.request);
+        const response = JSON.parse(data.response);
+        dataFile.push({ request, response });
       } catch (error) {}
     },
     separator: ";",
   });
-
-  console.log(dataFile[0], dataFile.length);
-
-  // const dataParsed = JSON.parse(dataFile[1].Column2).calculo;
-
-  // console.log(dataParsed);
 
   const dataJsonFile = dataFile.map((item) => item);
 

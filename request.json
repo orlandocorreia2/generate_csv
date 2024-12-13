@@ -1,0 +1,251 @@
+{
+  "naoSalvarDados": true,
+  "calculo": {
+    "precificacao": { "premio": { "informado": 175.23 } },
+    "vigenciaFinal": "2025-08-10T00:00:00.000Z",
+    "tipoSeguro": "Novo",
+    "numero": "10264920",
+    "origem": 18,
+    "parceiro": "27351731000138",
+    "codigoProdutoVida": "EP",
+    "contratantes": [
+      {
+        "numero": 1,
+        "tipo": "PRI",
+        "pessoa": {
+          "tipo": "FIS",
+          "nome": "MARIA MORAIS DA ROCHA",
+          "email": "maryrocha38@hotmail.com                           ",
+          "rendaMensal": "3500.00",
+          "dadosPessoaFisica": {
+            "sexo": "FEM",
+            "numeroCpf": "282121198",
+            "digitoCpf": "82",
+            "nacionalidade": "BRA",
+            "estadoCivil": "SOL",
+            "dataNascimento": "1974-08-14T00:00:00.000Z"
+          },
+          "telefones": [
+            {
+              "tipoTelefone": "COM",
+              "numeroTelefone": 972630081,
+              "dddTelefone": 11
+            },
+            {
+              "tipoTelefone": "CEL",
+              "numeroTelefone": 962655677,
+              "dddTelefone": 11
+            },
+            {
+              "tipoTelefone": "CEL",
+              "numeroTelefone": 972630081,
+              "dddTelefone": 11
+            }
+          ],
+          "enderecos": [
+            {
+              "tipoEndereco": "RES",
+              "logradouro": "RUA MENINOS",
+              "numeroLogradouro": 872,
+              "bairro": "NOVA GERTY",
+              "cidade": "SAO CAETANO DO SUL",
+              "uf": "SP",
+              "cep": "09580",
+              "complementoCep": "000",
+              "paisResidencia": "BRA"
+            }
+          ]
+        },
+        "dadosPagamento": {
+          "quantidadeParcelas": 11,
+          "vencimentoPrimeiraParcela": "2024-09-11T00:00:00.000Z",
+          "tipoResponsavelPagamento": "PAR"
+        },
+        "grupos": [
+          {
+            "numero": 1,
+            "nome": "Seguro Individual",
+            "qtdeSegurados": 1,
+            "segurados": [
+              {
+                "numero": 1,
+                "pessoa": {
+                  "tipo": "FIS",
+                  "nome": "MARIA MORAIS DA ROCHA",
+                  "email": "maryrocha38@hotmail.com                           ",
+                  "rendaMensal": "3500.00",
+                  "dadosPessoaFisica": {
+                    "sexo": "FEM",
+                    "numeroCpf": "282121198",
+                    "digitoCpf": "82",
+                    "nacionalidade": "BRA",
+                    "estadoCivil": "SOL",
+                    "dataNascimento": "1974-08-14T00:00:00.000Z"
+                  }
+                },
+                "coberturas": [
+                  {
+                    "sigla": "CAP",
+                    "valor": null,
+                    "numeroSerie": 1,
+                    "numeroSorte": 4436194,
+                    "dataSorteio": null,
+                    "loteCapitalizacao": null,
+                    "versaoCapitalizacao": null,
+                    "dataSolicitacao": null,
+                    "statusCapitalizacao": null,
+                    "tituloCapitalizacao": null
+                  },
+                  {
+                    "sigla": "FIN",
+                    "valor": null,
+                    "numeroSerie": null,
+                    "numeroSorte": null,
+                    "dataSorteio": null,
+                    "loteCapitalizacao": null,
+                    "versaoCapitalizacao": null,
+                    "dataSolicitacao": null,
+                    "statusCapitalizacao": null,
+                    "tituloCapitalizacao": null
+                  },
+                  {
+                    "sigla": "BAS",
+                    "valor": 10000,
+                    "numeroSerie": null,
+                    "numeroSorte": null,
+                    "dataSorteio": null,
+                    "loteCapitalizacao": null,
+                    "versaoCapitalizacao": null,
+                    "dataSolicitacao": null,
+                    "statusCapitalizacao": null,
+                    "tituloCapitalizacao": null
+                  },
+                  {
+                    "sigla": "PROF",
+                    "valor": null,
+                    "numeroSerie": null,
+                    "numeroSorte": null,
+                    "dataSorteio": null,
+                    "loteCapitalizacao": null,
+                    "versaoCapitalizacao": null,
+                    "dataSolicitacao": null,
+                    "statusCapitalizacao": null,
+                    "tituloCapitalizacao": null
+                  },
+                  {
+                    "sigla": "IPTA",
+                    "valor": 10000,
+                    "numeroSerie": null,
+                    "numeroSorte": null,
+                    "dataSorteio": null,
+                    "loteCapitalizacao": null,
+                    "versaoCapitalizacao": null,
+                    "dataSolicitacao": null,
+                    "statusCapitalizacao": null,
+                    "tituloCapitalizacao": null
+                  },
+                  {
+                    "sigla": "RIT",
+                    "valor": 2604.69,
+                    "numeroSerie": null,
+                    "numeroSorte": null,
+                    "dataSorteio": null,
+                    "loteCapitalizacao": null,
+                    "versaoCapitalizacao": null,
+                    "dataSolicitacao": null,
+                    "statusCapitalizacao": null,
+                    "tituloCapitalizacao": null
+                  },
+                  {
+                    "sigla": "DES",
+                    "valor": 2604.69,
+                    "numeroSerie": null,
+                    "numeroSorte": null,
+                    "dataSorteio": null,
+                    "loteCapitalizacao": null,
+                    "versaoCapitalizacao": null,
+                    "dataSolicitacao": null,
+                    "statusCapitalizacao": null,
+                    "tituloCapitalizacao": null
+                  }
+                ],
+                "beneficiarios": [{ "tipoBeneficiario": "PAR" }]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "idlote": 15724,
+    "canalDistribuicao": "VAR",
+    "meioComercializacao": "ARQ",
+    "idContratoParceiro": "00000115884091",
+    "segmento": "VidaMassificados",
+    "nomeArquivo": "RENNER_PORTO_EP_ADS_00001869_VG01.PRO",
+    "entradaNegocio": "RENNER - PARQUE SHOPPING SÃO CAETANO",
+    "idSeguradoParceiro": "574260595",
+    "orcnum": "1810264920",
+    "remuneracoes": [
+      {
+        "tipoRemuneracao": "REP",
+        "percentual": 70,
+        "favorecidos": [
+          {
+            "papel": "PAR",
+            "participacao": 100,
+            "pessoa": {
+              "tipo": "JUR",
+              "nome": "REALIZE CRED FINANCIAMENTO E INV SA",
+              "email": null,
+              "dadosPessoaJuridica": {
+                "numeroCnpj": "27351731",
+                "ordemCnpj": "0001",
+                "digitoCnpj": "38"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "tipoRemuneracao": "COR",
+        "percentual": 1.8,
+        "favorecidos": [
+          {
+            "papel": "COR",
+            "participacao": 100,
+            "pessoa": {
+              "tipo": "JUR",
+              "nome": "MARSH CORRETORA DE SEGUROS LTDA",
+              "email": null,
+              "dadosPessoaJuridica": {
+                "numeroCnpj": "61038592",
+                "ordemCnpj": "0001",
+                "digitoCnpj": "25"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "vigenciaInicial": "2024-09-11T00:00:00.000Z",
+    "dataCalculo": "2024-08-12T00:00:00.000Z"
+  },
+  "keys": [],
+  "sharedlibrary": {
+    "bas": "10000",
+    "ipta": "10000",
+    "rit": "2429",
+    "des": "2429",
+    "codigoprodutovida": "ep",
+    "pclqtd": "11",
+    "siscod": "19",
+    "rnrinftotprm": "175",
+    "reprem": "63",
+    "correm": "1",
+    "empcod": "4",
+    "pdtcod": "151"
+  },
+  "orcnum": "1810264920",
+  "uuid": "5703eaf4ae3bf6b6",
+  "identificador": "/renner/calculo"
+}
